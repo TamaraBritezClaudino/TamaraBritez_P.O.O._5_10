@@ -1,0 +1,7 @@
+C:\Users\tamic\OneDrive\Escritorio\P.O.O\TamaraBritez_P.O.O._5_10\Ejercicios P.O.O\Ej02\bin\Debug\Ej02.exe.config
+C:\Users\tamic\OneDrive\Escritorio\P.O.O\TamaraBritez_P.O.O._5_10\Ejercicios P.O.O\Ej02\bin\Debug\Ej02.exe
+C:\Users\tamic\OneDrive\Escritorio\P.O.O\TamaraBritez_P.O.O._5_10\Ejercicios P.O.O\Ej02\bin\Debug\Ej02.pdb
+C:\Users\tamic\OneDrive\Escritorio\P.O.O\TamaraBritez_P.O.O._5_10\Ejercicios P.O.O\Ej02\obj\Debug\Ej02.csproj.AssemblyReference.cache
+C:\Users\tamic\OneDrive\Escritorio\P.O.O\TamaraBritez_P.O.O._5_10\Ejercicios P.O.O\Ej02\obj\Debug\Ej02.csproj.CoreCompileInputs.cache
+C:\Users\tamic\OneDrive\Escritorio\P.O.O\TamaraBritez_P.O.O._5_10\Ejercicios P.O.O\Ej02\obj\Debug\Ej02.exe
+C:\Users\tamic\OneDrive\Escritorio\P.O.O\TamaraBritez_P.O.O._5_10\Ejercicios P.O.O\Ej02\obj\Debug\Ej02.pdb
